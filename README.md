@@ -13,11 +13,9 @@ A simple command-line log analysis tool written in Python.
 pip install -e .
 🧠 Usage
 bash
-复制代码
 log-analyze -i log_analyzer/week3/sample/sample.log
 📦 Output
 bash
-复制代码
 === Summary ===
 INFO 2
 WARN 1
