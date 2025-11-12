@@ -1,0 +1,10 @@
+2025-11-12 11:15:15,620 - INFO - Read 6 lines from .\sample\sample.log
+2025-11-12 11:15:15,621 - INFO - Parsed 4 log records，bad lines: 2
+2025-11-12 11:15:15,621 - INFO - === Summary ===
+2025-11-12 11:15:15,621 - INFO - Saved CSV -> output/levels.csv, output/top_tokens.csv
+2025-11-12 11:15:15,622 - WARNING - Saved 2 bad lines to output/bad.log
+2025-11-12 11:16:23,616 - INFO - Read 6 lines from .\sample\sample.log
+2025-11-12 11:16:23,616 - INFO - Parsed 4 log records，bad lines: 2
+2025-11-12 11:16:23,616 - INFO - === Summary ===
+2025-11-12 11:16:23,617 - INFO - Saved CSV -> output/levels.csv, output/top_tokens.csv
+2025-11-12 11:16:23,617 - WARNING - Saved 2 bad lines to output/bad.log

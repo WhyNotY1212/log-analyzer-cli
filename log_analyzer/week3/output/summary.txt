@@ -1,0 +1,12 @@
+=== Log Analysis Summary ===
+Total bad lines: 2
+
+--- Levels ---
+INFO: 2
+ERROR: 1
+WARN: 1
+
+--- Top Tokens ---
+line1: 1
+message: 1
+something: 1

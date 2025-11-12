@@ -1,0 +1,2 @@
+[console_scripts]
+log-analyze = log_analyzer.week3.main:main

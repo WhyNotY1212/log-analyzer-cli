@@ -1,0 +1,15 @@
+2025-11-12 12:46:35,236 - INFO - Read 6 lines from week3/sample/sample.log
+2025-11-12 12:46:35,237 - INFO - Parsed 4 log records，bad lines: 2
+2025-11-12 12:46:35,237 - INFO - === Summary ===
+2025-11-12 12:46:35,238 - INFO - Saved CSV -> output/levels.csv, output/top_tokens.csv
+2025-11-12 12:46:35,238 - WARNING - Saved 2 bad lines to output/bad.log
+2025-11-12 13:14:20,464 - INFO - Read 6 lines from log_analyzer/week3/sample/sample.log
+2025-11-12 13:14:20,464 - INFO - Parsed 4 log records，bad lines: 2
+2025-11-12 13:14:20,465 - INFO - === Summary ===
+2025-11-12 13:14:20,466 - INFO - Saved CSV -> output/levels.csv, output/top_tokens.csv
+2025-11-12 13:14:20,467 - WARNING - Saved 2 bad lines to output/bad.log
+2025-11-12 13:19:51,901 - INFO - Read 6 lines from log_analyzer/week3/sample/sample.log
+2025-11-12 13:19:51,901 - INFO - Parsed 4 log records，bad lines: 2
+2025-11-12 13:19:51,902 - INFO - === Summary ===
+2025-11-12 13:19:51,903 - INFO - Saved CSV -> output/levels.csv, output/top_tokens.csv
+2025-11-12 13:19:51,903 - WARNING - Saved 2 bad lines to output/bad.log
